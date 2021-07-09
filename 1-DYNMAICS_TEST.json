@@ -1,0 +1,21 @@
+{
+    "name": "DynamicNFT-1",
+    "description": "Dynamics Test Collection",
+    "image": "https://dynamics.com/test/1/pug.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 50
+        }
+    ],
+    "ledgers": [
+	{
+            "name": "Dyanmics Ledger",
+	        "value": "https://dynamics.com/test/1"
+	},
+	{  
+           "name": "Ethereum Ledger",
+           "value": "https://etherscan.io/address/0x6A4C7bcbD42A10af1503a9e5f20C7A6C78A52309"
+	}
+    ]
+}
