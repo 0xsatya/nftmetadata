@@ -1,0 +1,21 @@
+{
+    "name": "DynamicNFT-4",
+    "description": "DynamicNFT-4",
+    "image": "https://dynamics.com/test/3/st-bernard2.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 900
+        }
+    ],
+    "ledgers": [
+	{
+            "name": "Dyanmics Ledger",
+	        "value": "https://dynamics.com/test/4"
+	},
+	{  
+           "name": "Ethereum Ledger",
+           "value": "https://etherscan.io/address/0x6A4C7bcbD42A10af1503a9e5f20C7A6C78A52309"
+	}
+    ]
+}
